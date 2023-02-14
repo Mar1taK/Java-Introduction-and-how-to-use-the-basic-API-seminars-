@@ -1,0 +1,2 @@
+3 in degree 2 = 9.0
+10 in degree 3 = 1000.0
